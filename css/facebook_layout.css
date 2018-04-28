@@ -171,18 +171,18 @@
 }
 
 .firstname{
-    width: 45%;
+    width: 47%;
     padding: 3% 1%;
     border-radius: 7px;
     border: 0.5px solid lightblue;
-    margin-right: 1.5%;
+    
 }
 
 .surname{
-    padding: 3% 1%;
+    padding: 3% 1.2%;
     border-radius: 7px;
     border: 0.5px solid lightblue;
-    width: 48%;
+    width: 47%;
 }
 
 .mobile{
