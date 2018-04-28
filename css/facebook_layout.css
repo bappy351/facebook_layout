@@ -83,10 +83,10 @@
 .forgot {
     float: right;
     opacity: .5;
-    margin-right: 28.5%;
+    margin-right: 15.5%;
     font-size: 12px;
     margin-top: 1.2%;
-    width: 27%;
+    width: 40%;
 }
 
 .forgot:hover {
