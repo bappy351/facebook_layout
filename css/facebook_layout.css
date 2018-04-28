@@ -175,6 +175,7 @@
     padding: 3% 1%;
     border-radius: 7px;
     border: 0.5px solid lightblue;
+    float: left;
     
 }
 
@@ -183,6 +184,7 @@
     border-radius: 7px;
     border: 0.5px solid lightblue;
     width: 47%;
+    float: right;
 }
 
 .mobile{
