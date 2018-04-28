@@ -1,0 +1,331 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*header end*/
+
+.header {
+    background-color: #395795;
+    overflow: hidden;
+    min-height: 82px;
+}
+
+.wrapper_one {
+    overflow: hidden;
+    width: 75%;
+    margin: 0 auto;
+    padding-top: 13px;
+}
+
+.logo {
+    height: 48px;
+    width: 18%;
+    float: left;
+    margin-top: 12px;
+}
+
+.logo img {
+    height: 100%;
+    width: 100%;
+}
+
+.log_in_form {
+    overflow: hidden;
+    float: right;
+    width: 41%;
+    margin-top: 4px;
+    color: white;
+    font-size: 13px;
+    font-family: sans-serif
+
+}
+
+.form-group {
+    width: 38%;
+    float: left;
+    margin-left: 3%;
+}
+
+.username {
+    width: 95%;
+    padding: 3px;
+    border: 1px solid #1E2958;
+    border-radius: 2px;
+    margin-top: 5%;
+}
+
+.password {
+    width: 95%;
+    padding: 3px;
+    border: 1px solid #1E2958;
+    border-radius: 2px;
+    margin-top: 5%;
+}
+
+.button {
+    width: 12%;
+    margin-top: 23px;
+    float: left;
+    background-color: #3C63AA;
+    border: 1px solid #27467A;
+    padding: 3px 5px;
+    color: white;
+    margin-left: 3%;
+    border-radius: 2px;
+}
+
+.button:hover {
+    background-color: #345696;
+    
+}
+
+.forgot {
+    float: right;
+    opacity: .5;
+    margin-right: 28.5%;
+    font-size: 12px;
+    margin-top: 1.2%;
+    width: 27%;
+}
+
+.forgot:hover {
+    color: white;
+    text-decoration: underline;
+    opacity: 1;
+}
+
+/*header end*/
+
+/*Section content and form start*/
+
+.content {
+    background-color: #D6D9E7;
+    overflow: hidden;
+    min-height: 580px;
+}
+
+.wrapper_two{
+    overflow: hidden;
+    width: 75%;
+    margin: 0 auto;
+    min-height: 580px;
+    
+}
+
+.left_part {
+    float: left;
+    width: 57%;
+    min-height: 580px;
+    overflow: hidden;
+}
+
+.left_part h1 {
+    color: #0A3551;
+    font-size: 22px;
+    margin-top: 45px;
+    font-family: sans-serif;
+    width: 94%;
+}
+
+.image {
+    width: 100%;
+    height: 203px;
+}
+
+.image img {
+    width: 100%;
+    height: 100%;
+    margin-top: 16px;
+}
+
+.right_part {
+    border-bottom: 0.5px solid darkgray;
+    float: right;
+    width: 42%;
+    overflow: hidden;
+}
+
+
+.create{
+    
+}
+
+.create h1{
+    font-size: 35px;
+    margin-top: 22px;
+    margin-bottom: 7px;
+    color: #333333;
+    font-family: sans-serif
+}
+
+.create h5{
+    font-size: 16px;
+    margin-bottom: 20px;
+    color: #333333;
+    font-family: sans-serif;
+}
+
+.sign_up_form{
+    
+}
+
+.firstname{
+    width: 45%;
+    padding: 3% 1%;
+    border-radius: 7px;
+    border: 0.5px solid lightblue;
+    margin-right: 1.5%;
+}
+
+.surname{
+    padding: 3% 1%;
+    border-radius: 7px;
+    border: 0.5px solid lightblue;
+    width: 48%;
+}
+
+.mobile{
+    width: 97.8%;
+    margin-top: 2%;
+    padding: 3% 1%;
+    border-radius: 7px;
+    border: 0.5px solid lightblue;
+    
+}
+
+.password2{
+    width: 97.8%;
+    margin-top: 2%;
+    padding: 3% 1%;
+    border-radius: 7px;
+    border: 0.5px solid lightblue;
+    margin-bottom: 5%;
+    
+}
+
+.set_birthday{
+    color: #333333;
+    font-family: sans-serif;
+    font-size: 22px;
+    
+}
+
+.date{
+    margin-top: 6px;
+    padding: 2% 1.5%;
+    border-radius: 2px;
+    border: 0.5px solid lightblue;
+}
+
+.birthday{
+    font-size: 10px;
+    color: #345696;
+}
+
+.gender{
+    margin-top: 5%;
+    margin-left: 3%;
+}
+
+.paragraph{
+    margin-top: 4%;
+    width: 329px;
+    font-size: 13px;
+    color: #838383;
+    margin-bottom: 5%;
+    
+}
+
+.blue_text{
+    color: #375592;
+    
+}
+
+.signup_btn{
+    background-color: #529A53;
+    border: 0.5px solid #529A53;
+    padding: 2% 16%;
+    border-radius: 7px;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 5%;
+    
+}
+
+.bottom_text{
+    color: #838383;
+    float: left;
+    margin-left: 1%;
+    margin-top: 13px;
+    font-size: 18px;
+    margin-bottom: 5%;
+}
+
+/*Section content and form end*/
+
+
+/*footer start*/
+.footer{
+    overflow: hidden;
+    
+}
+
+.wrapper_three{
+    margin: 0 auto;
+    width: 75%;
+     
+}
+
+.language_wrapper{
+    overflow: hidden;
+    border-bottom: 0.5px solid darkgray;
+}
+
+.languages{
+    margin-top: 3%;
+    float: left;
+    
+}
+
+.languages p{
+    color: #345696;
+    margin-bottom: 1%;
+    font-size: 12px;
+    word-spacing: 7px;
+    
+}
+
+.language_wrapper button{
+    float: left;
+    margin-left: 10px;
+    margin-top: 27px;
+    padding: 0px 12px;
+    
+}
+
+.english{
+    color: #838383; 
+}
+
+.features{
+  
+}
+
+.features p{
+    color: #345696;
+    margin-top: 1%;
+    font-size: 13px;
+    word-spacing: 11px;
+    margin-bottom: 17px;
+}
+
+.wrapper_three h6{
+    color: #838383;
+    margin-top: 1%;
+    margin-bottom: 4%;
+    
+}
+
+/*footer end*/
+
